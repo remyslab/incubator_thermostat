@@ -24,8 +24,7 @@ This is how you can built a thermostat with an Arduino (or clone), a relay and a
 	- A 4.7K ohms resistor
 	- A LCD HD44780 with a Serial I2C backpack like PCF8574 shields for make connections easier
 	
-
-**TO DO : Draw a schematic**
+![alt text](./incubator_schematic.jpg)
 
 ## Calibration
 
